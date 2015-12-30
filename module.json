@@ -1,0 +1,24 @@
+{
+	"name": "ilg-usb",
+	"description": "An xPack with USB device & host code.",
+	"version": "0.1.1",
+	"keywords": [
+		"usb",
+		"device",
+		"host",
+		"portable",
+		"xpack",
+		"xcdl"
+	],
+	"author": "Liviu Ionescu <ilg@livius.net>",
+	"homepage": "https://github.com/micro-os-plus/usb",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/micro-os-plus/usb.git"
+	},
+	"bugs": {
+		"url": "https://github.com/micro-os-plus/usb/issues"
+	},
+	"license": "LGPL-3.0",
+	"dependencies": {}
+}
